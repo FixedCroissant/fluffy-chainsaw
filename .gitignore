@@ -1,1 +1,3 @@
 *.code-workspace
+# Azure Functions
+local.settings.json
