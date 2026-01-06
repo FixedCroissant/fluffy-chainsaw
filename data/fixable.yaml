@@ -1,0 +1,11 @@
+- image: my-app-name-1
+  fixable:
+    - h11: 0.16.0
+    - setuptools: 78.1.1
+    - urllib3: 2.6.0
+- image: my-app-name-2
+  fixable:
+    - h11: 0.16.0
+- image: my-app-name-3
+  fixable:
+    - django: 4.2.45
